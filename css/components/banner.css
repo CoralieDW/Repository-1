@@ -1,0 +1,20 @@
+.banner {
+	
+	background-image: url("https://res.cloudinary.com/dijj1e23c/image/upload/c_scale,e_shadow:62,h_800,o_50,w_1800/v1570026092/route_ndmubj.jpg");
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.banner h1 {
+	color: white;
+	text-align: center;
+	
+}
+
+.banner p {
+	color: white;
+	font-size: 17px;
+	text-align: center;
+}
